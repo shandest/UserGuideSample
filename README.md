@@ -94,7 +94,7 @@ For further assistance, contact our support team:
 
 ---
 
-### ***Step 4: Commit Changes** 
+### Step 4: Commit Changes 
 1. Scroll down to the bottom of the 'README.md' file.
 2. Add a commit message, eg., '' Added sample user guide content.''
 3. Click **''Commit changes''**.

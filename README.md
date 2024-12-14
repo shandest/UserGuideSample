@@ -111,6 +111,6 @@ For further assistance, contact our support team:
 ---
 
 ### Tools to Enhance the Guide:
-1. **Images**: Add screenshots using the Github issue attachment
-
-
+1. **Images**: Add screenshots using the Github issue attachment feature or upload images directly to the repository.
+2. **Code Snippets**: Use fenced code blocks ('''language) for syntax highlighting.
+3. **Links**: Hyperlink to related files or documentation within the repository.
